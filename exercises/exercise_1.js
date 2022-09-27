@@ -4,6 +4,7 @@ const characters = require("../data/characters.json");
 
 const findCharacterUnknownBirthDate = () => {
   // CODE HERE
+  return blabla ()
 };
 
 module.exports = findCharacterUnknownBirthDate;
